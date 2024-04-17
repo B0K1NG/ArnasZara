@@ -2,6 +2,9 @@
 
 Welcome to ArnasZara Photoshoot, a virtual exhibit dedicated to the elegance and allure of automobiles. This digital gallery transforms each car into a narrative of artistry and excellence in automotive design.
 
+- [ArnasZara Desktop]: (https://ibb.co/xD7rvR8) (https://ibb.co/BPnRSq2)
+- [ArnasZara Phone](https://ibb.co/8rMk7JM)
+
 ## Overview 🏁
 
 ArnasZara represents a blend of concepts poised to come alive through HTML, CSS, and JavaScript. Crafted in Visual Studio Code, this site will provide an immersive experience for both car lovers and photography enthusiasts.
