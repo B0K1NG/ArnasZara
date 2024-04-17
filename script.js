@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const bodyMessage = `Email: ${email.value}<br> Message: ${message.value}<br> Choice: ${choice.innerText}<br>`
   
         Email.send({
-            SecureToken : "HEHEHEEH NICE TRY",
+            SecureToken : "99e86560-13ce-40d9-9940-cf40ea1ebf40",
             To : 'photoshootarnaszara@gmail.com',
             From : "photoshootarnaszara@gmail.com",
             Subject : subject.value,

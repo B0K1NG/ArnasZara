@@ -79,7 +79,8 @@ body {
 #home,
 #about,
 #gallery,
-#book {
+#book,
+#exquisite {
     padding-left: 1rem;
     padding-right: 1rem;
     padding-bottom: 4.7rem;
@@ -577,14 +578,14 @@ h3 {
     border-bottom: 8px solid #8B7F71;
 }
 
-footer {
+.footer {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-    padding: 20px;
+    align-items: center; /* Keeps items centered horizontally */
+    justify-content: center; /* Centers the items vertically, you can also use 'space-between' if you want to distribute the space */
+    gap: 20px; /* Adjust this value to get the desired spacing between footer elements */
     text-align: center;
-    position: relative;
+    padding: 20px; /* You may adjust the padding if needed */
     background-color: #161616;
     color: #CCCCCC;
     border-bottom: 8px solid #8B7F71;
@@ -617,6 +618,11 @@ footer {
     align-items: center;
     text-decoration: underline;
     text-underline-offset: 0.35rem;
+}
+
+.footer p {
+    order: 4;
+    font-size: 0.8rem;
 }
 
 .footer-links a {

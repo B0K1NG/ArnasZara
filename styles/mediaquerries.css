@@ -116,6 +116,10 @@
         max-width: 70%;
         margin: 1rem auto;
         }
+
+        .footer p {
+            font-size: 0.9rem;
+        }
 }
 
 /* md */
@@ -428,7 +432,7 @@
 
     .footer-logo {
         position: absolute;
-        top: 30%;
+        top: 10%;
         left: 50%;
         transform: translate(-50%, -50%);
     }
@@ -460,6 +464,10 @@
     a.facebook img{
         height: auto;
         width: 3rem;
+    }
+
+    .footer p {
+        font-size: 1rem;
     }
 
 }
