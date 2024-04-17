@@ -3,10 +3,10 @@
 Welcome to ArnasZara Photoshoot, a virtual exhibit dedicated to the elegance and allure of automobiles. This digital gallery transforms each car into a narrative of artistry and excellence in automotive design.
 
 - [ArnasZara Desktop](https://ibb.co/BPnRSq2)
-- [ArnasZara Desktop2](https://ibb.co/7v1Lm5p)
-- [ArnasZara Phone1](https://ibb.co/kSzRH5C)
-- [ArnasZara Phone2](https://ibb.co/G2TS2fm)
-- [ArnasZara Phone3](https://ibb.co/PWTQXGh)
+- [ArnasZara Desktop 2](https://ibb.co/7v1Lm5p)
+- [ArnasZara Phone](https://ibb.co/kSzRH5C)
+- [ArnasZara Phone 2](https://ibb.co/G2TS2fm)
+- [ArnasZara Phone 3](https://ibb.co/PWTQXGh)
 
 ## Overview 🏁
 
